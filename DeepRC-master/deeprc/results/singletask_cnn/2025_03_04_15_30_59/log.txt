@@ -1,0 +1,26 @@
+Training model...
+[training_inference] u: 0000001; scores: {'binary_target_1': {'roc_auc': 0.5, 'bacc': 0.5, 'f1': 0.0, 'loss': 0.7117589169128198}};
+[validation] u: 0000001; scores: {'binary_target_1': {'roc_auc': 0.5, 'bacc': 0.5, 'f1': 0.0, 'loss': 0.7060704547911882}};
+  New best validation loss for binary_target_1: 0.7060704547911882
+[training_inference] u: 0000100; scores: {'binary_target_1': {'roc_auc': 0.5, 'bacc': 0.5, 'f1': 0.7835365853658537, 'loss': 0.6510490565969232}};
+[validation] u: 0000100; scores: {'binary_target_1': {'roc_auc': 0.5, 'bacc': 0.5, 'f1': 0.7465437788018433, 'loss': 0.6790184786214548}};
+  New best validation loss for binary_target_1: 0.6790184786214548
+[training_inference] u: 0000200; scores: {'binary_target_1': {'roc_auc': 0.5, 'bacc': 0.5, 'f1': 0.7835365853658537, 'loss': 0.6543016509902208}};
+[validation] u: 0000200; scores: {'binary_target_1': {'roc_auc': 0.5, 'bacc': 0.5, 'f1': 0.7465437788018433, 'loss': 0.674934469820822}};
+  New best validation loss for binary_target_1: 0.674934469820822
+[training_inference] u: 0000300; scores: {'binary_target_1': {'roc_auc': 0.5, 'bacc': 0.5, 'f1': 0.7835365853658537, 'loss': 0.6514732107183987}};
+[validation] u: 0000300; scores: {'binary_target_1': {'roc_auc': 0.5, 'bacc': 0.5, 'f1': 0.7465437788018433, 'loss': 0.6833310355158413}};
+[training_inference] u: 0000400; scores: {'binary_target_1': {'roc_auc': 0.5, 'bacc': 0.5, 'f1': 0.7835365853658537, 'loss': 0.6518348191017495}};
+[validation] u: 0000400; scores: {'binary_target_1': {'roc_auc': 0.5, 'bacc': 0.5, 'f1': 0.7465437788018433, 'loss': 0.6765367603477309}};
+[training_inference] u: 0000500; scores: {'binary_target_1': {'roc_auc': 0.5, 'bacc': 0.5, 'f1': 0.7835365853658537, 'loss': 0.6530261234681409}};
+[validation] u: 0000500; scores: {'binary_target_1': {'roc_auc': 0.5, 'bacc': 0.5, 'f1': 0.7465437788018433, 'loss': 0.6754253653480726}};
+[training_inference] u: 0000600; scores: {'binary_target_1': {'roc_auc': 0.5, 'bacc': 0.5, 'f1': 0.7835365853658537, 'loss': 0.6515363307674427}};
+[validation] u: 0000600; scores: {'binary_target_1': {'roc_auc': 0.5, 'bacc': 0.5, 'f1': 0.7465437788018433, 'loss': 0.6836004344856038}};
+[training_inference] u: 0000700; scores: {'binary_target_1': {'roc_auc': 0.5, 'bacc': 0.5, 'f1': 0.7835365853658537, 'loss': 0.6510497994888994}};
+[validation] u: 0000700; scores: {'binary_target_1': {'roc_auc': 0.5, 'bacc': 0.5, 'f1': 0.7465437788018433, 'loss': 0.6806620547876638}};
+[training_inference] u: 0000800; scores: {'binary_target_1': {'roc_auc': 0.5, 'bacc': 0.5, 'f1': 0.7835365853658537, 'loss': 0.6511392904104744}};
+[validation] u: 0000800; scores: {'binary_target_1': {'roc_auc': 0.5, 'bacc': 0.5, 'f1': 0.7465437788018433, 'loss': 0.6783396435134551}};
+[training_inference] u: 0000900; scores: {'binary_target_1': {'roc_auc': 0.5, 'bacc': 0.5, 'f1': 0.7835365853658537, 'loss': 0.6510299810938966}};
+[validation] u: 0000900; scores: {'binary_target_1': {'roc_auc': 0.5, 'bacc': 0.5, 'f1': 0.7465437788018433, 'loss': 0.6803408812950639}};
+[training_inference] u: 0001000; scores: {'binary_target_1': {'roc_auc': 0.5, 'bacc': 0.5, 'f1': 0.7835365853658537, 'loss': 0.6511101131899315}};
+[validation] u: 0001000; scores: {'binary_target_1': {'roc_auc': 0.5, 'bacc': 0.5, 'f1': 0.7465437788018433, 'loss': 0.6812839293304611}};

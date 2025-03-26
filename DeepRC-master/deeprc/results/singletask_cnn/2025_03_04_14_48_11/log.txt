@@ -1,0 +1,34 @@
+Training model...
+[training_inference] u: 0000001; scores: {'binary_target_1': {'roc_auc': nan, 'bacc': 1.0, 'f1': 0.0, 'loss': 0.5576170682907104}};
+[validation] u: 0000001; scores: {'binary_target_1': {'roc_auc': nan, 'bacc': 1.0, 'f1': 0.0, 'loss': 0.5576170682907104}};
+  New best validation loss for binary_target_1: 0.5576170682907104
+[training_inference] u: 0000100; scores: {'binary_target_1': {'roc_auc': nan, 'bacc': 1.0, 'f1': 0.0, 'loss': 0.008438587188720703}};
+[validation] u: 0000100; scores: {'binary_target_1': {'roc_auc': nan, 'bacc': 1.0, 'f1': 0.0, 'loss': 0.008438587188720703}};
+  New best validation loss for binary_target_1: 0.008438587188720703
+[training_inference] u: 0000200; scores: {'binary_target_1': {'roc_auc': nan, 'bacc': 1.0, 'f1': 0.0, 'loss': 0.0013909339904785156}};
+[validation] u: 0000200; scores: {'binary_target_1': {'roc_auc': nan, 'bacc': 1.0, 'f1': 0.0, 'loss': 0.0013909339904785156}};
+  New best validation loss for binary_target_1: 0.0013909339904785156
+[training_inference] u: 0000300; scores: {'binary_target_1': {'roc_auc': nan, 'bacc': 1.0, 'f1': 0.0, 'loss': 0.0005998611450195312}};
+[validation] u: 0000300; scores: {'binary_target_1': {'roc_auc': nan, 'bacc': 1.0, 'f1': 0.0, 'loss': 0.0005998611450195312}};
+  New best validation loss for binary_target_1: 0.0005998611450195312
+[training_inference] u: 0000400; scores: {'binary_target_1': {'roc_auc': nan, 'bacc': 1.0, 'f1': 0.0, 'loss': 0.0003657341003417969}};
+[validation] u: 0000400; scores: {'binary_target_1': {'roc_auc': nan, 'bacc': 1.0, 'f1': 0.0, 'loss': 0.0003657341003417969}};
+  New best validation loss for binary_target_1: 0.0003657341003417969
+[training_inference] u: 0000500; scores: {'binary_target_1': {'roc_auc': nan, 'bacc': 1.0, 'f1': 0.0, 'loss': 0.00028324127197265625}};
+[validation] u: 0000500; scores: {'binary_target_1': {'roc_auc': nan, 'bacc': 1.0, 'f1': 0.0, 'loss': 0.00028324127197265625}};
+  New best validation loss for binary_target_1: 0.00028324127197265625
+[training_inference] u: 0000600; scores: {'binary_target_1': {'roc_auc': nan, 'bacc': 1.0, 'f1': 0.0, 'loss': 0.0002422332763671875}};
+[validation] u: 0000600; scores: {'binary_target_1': {'roc_auc': nan, 'bacc': 1.0, 'f1': 0.0, 'loss': 0.0002422332763671875}};
+  New best validation loss for binary_target_1: 0.0002422332763671875
+[training_inference] u: 0000700; scores: {'binary_target_1': {'roc_auc': nan, 'bacc': 1.0, 'f1': 0.0, 'loss': 0.000217437744140625}};
+[validation] u: 0000700; scores: {'binary_target_1': {'roc_auc': nan, 'bacc': 1.0, 'f1': 0.0, 'loss': 0.000217437744140625}};
+  New best validation loss for binary_target_1: 0.000217437744140625
+[training_inference] u: 0000800; scores: {'binary_target_1': {'roc_auc': nan, 'bacc': 1.0, 'f1': 0.0, 'loss': 0.0001983642578125}};
+[validation] u: 0000800; scores: {'binary_target_1': {'roc_auc': nan, 'bacc': 1.0, 'f1': 0.0, 'loss': 0.0001983642578125}};
+  New best validation loss for binary_target_1: 0.0001983642578125
+[training_inference] u: 0000900; scores: {'binary_target_1': {'roc_auc': nan, 'bacc': 1.0, 'f1': 0.0, 'loss': 0.00018787384033203125}};
+[validation] u: 0000900; scores: {'binary_target_1': {'roc_auc': nan, 'bacc': 1.0, 'f1': 0.0, 'loss': 0.00018787384033203125}};
+  New best validation loss for binary_target_1: 0.00018787384033203125
+[training_inference] u: 0001000; scores: {'binary_target_1': {'roc_auc': nan, 'bacc': 1.0, 'f1': 0.0, 'loss': 0.000179290771484375}};
+[validation] u: 0001000; scores: {'binary_target_1': {'roc_auc': nan, 'bacc': 1.0, 'f1': 0.0, 'loss': 0.000179290771484375}};
+  New best validation loss for binary_target_1: 0.000179290771484375
