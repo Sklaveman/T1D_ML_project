@@ -1,0 +1,13 @@
+name: ml_with_classical_feature_engineeering
+dependencies:
+  - dill==0.3.9
+  - esm==3.1.6
+  - h5py==3.13.0
+  - joblib==1.4.2
+  - numpy==1.24.4
+  - pandas==2.0.3
+  - Requests==2.32.3
+  - scikit_learn==1.3.2
+  - setuptools==58.0.4
+  - torch==2.6.0
+  - tqdm==4.62.3
