@@ -44,5 +44,5 @@ All requirements are stored in yml files. It is better to create new environment
 conda env create -f environment.yml
 # environment activation
 conda activate name_of_the_env
-# than you can run the notebook of python script in created environment
+# than you can run the notebook or the python script in the created environment
 ```
