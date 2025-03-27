@@ -8,13 +8,13 @@ More details about the project you can find in the [report](report.pdf) and [pre
 
 The project has three parts:
 
-1. ML models trained on features selected by F-test or TCRnet.
+**1. ML models trained on features selected by F-test or TCRnet.**
 
 :file_folder: Feature tables for training and test dataset constructed on features selected by fisher test or TCRnet are stored in `feature_tables` folder. 
 
 :clipboard: The notebook with classifiers based on these feature tables `ml_models_on_features_selected_by_fisher_or_TCRnet_30k_norm.ipynb`.
 
-2. ML models trained on embeddings.
+**2. ML models trained on embeddings.**
 
 :file_folder: TCR repertoires in form suitable for embeddings construction are stored in `data_30k_umi`
 
@@ -22,7 +22,7 @@ The project has three parts:
 
 :clipboard: Notebook for ML models on embeddings `ml_analysis_on_embeddings.ipynb`
 
-3. DeepRC model implementation
+**3. DeepRC model implementation**
 
 :file_folder: `DeepRC-master` is a modified copy of [original DeepRC github repo](https://github.com/ml-jku/DeepRC). Our TCR reperotires in the form suitable for DeepRC are stored in `DeepRC-master/deeprc/datasets/example_dataset/repertoires`. Metadata for our files is `DeepRC-master/deeprc/datasets/example_dataset/metadata.tsv`. 
 
