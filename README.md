@@ -46,3 +46,11 @@ conda env create -f environment.yml
 conda activate name_of_the_env
 # than you can run the notebook or the python script in the created environment
 ```
+
+# Team & roles
+
+| Member       | GitHub                | Responsibility                  |
+| ------------ | --------------------- | ------------------------------- |
+| Ksenia | @KseniaMIPT           | Data preprocessing, feature selection and feature table construction, DeepRC model implementation.         |
+| Artemiy | @Sklaveman              | ESM-based embeddings construction and ML models implementation.                    |
+| Valeria |              | Implementation of ML models on feature tables after feature selection with F-test and TCRnet.                  |
